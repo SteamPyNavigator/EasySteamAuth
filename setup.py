@@ -1,7 +1,6 @@
 import setuptools
 from setuptools import setup
 
-
 requirements = [
     'aiohttp==3.10.2',
     'protobuf==5.28.2',
