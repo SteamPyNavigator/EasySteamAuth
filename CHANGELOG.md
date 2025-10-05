@@ -1,5 +1,5 @@
 # Changelog
-
+ 
 ## [v1.1.0 (2024-20-20)](https://github.com/sometastycake/pysteamauth/releases/tag/v1.1.0)
 
 - Removed support python 3.7 and python 3.8
